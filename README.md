@@ -1,4 +1,4 @@
-### Hi there 👋
+### 안녕하세요👋, 세상에 이로운 영향력을 끼치고싶은 개발자 박재현입니다. 
 
 <!--
 **jaehyunup/jaehyunup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
