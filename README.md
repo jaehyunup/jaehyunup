@@ -1,4 +1,4 @@
-### Jaehyun Park — @Grey
+# Jaehyun Park — @Grey
 
 Hi, I'm Jaehyun Park!
 
