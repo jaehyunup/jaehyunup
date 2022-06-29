@@ -22,16 +22,3 @@ I working on product force me to learn and improve myself everytime. I also love
 **Third Prize At Ministry of the Interior and Safety, Secure coding Hackathon in Korea** &nbsp;- 2019.10
 
 **Third Prize At Busan-Metropolitan City, Busan Metropolitan SmartCity IoT contest** &nbsp;- 2018.09
-
-
-### 🗡 Skills 
-<a><img src="https://img.shields.io/badge/Java-3766AB?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp;
-<a><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp;
-<a><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp;
-<a><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp;
-<a><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp; 
-<a><img src="https://img.shields.io/badge/AWS-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp;
-<a><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=black"/></a>&nbsp;
-<a><img src="https://img.shields.io/badge/Docker-ffffff?style=flat-square&logo=docker&logoColor=blue"/></a>&nbsp;
-<a><img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/></a>&nbsp;
-
