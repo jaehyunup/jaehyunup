@@ -3,12 +3,14 @@
 
 Hi, I'm Jaehyun Park
 
-Right now I'm working as a Junior Software Engineer in SpoonRadio, mainly focus on Backend Development.  
+Right now I'm working as a Software Engineer, mainly focus on Backend Development.  
 I working on product force me to learn and improve myself everytime. I also love to solve engineering problem.
 
 ### ⏱ Experience  
 
-**Backend developer of Service platform team - Spoon Radio Inc.**  &nbsp; 2021.04 ~       
+**Backend developer at Woowa Bros.**  &nbsp; 2022.06 ~        
+
+**Backend developer at Spoon Radio**  &nbsp; 2021.04 ~ 2022~06       
 
 **SAMSUNG Software Academy for youth Trainee 4th - SAMSUNG Electronics** &nbsp; 2020.07 ~ 2021.03
 
