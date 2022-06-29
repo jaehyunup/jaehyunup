@@ -6,7 +6,7 @@ Hi, I'm Jaehyun Park
 Right now I'm working as a Software Engineer, mainly focus on Backend Development.  
 I working on product force me to learn and improve myself everytime. I also love to solve engineering problem.
 
-### ⏱ Experience  
+### Experience  
 
 **Backend developer at Woowa Bros.**  &nbsp; 2022.06 ~        
 
@@ -16,7 +16,7 @@ I working on product force me to learn and improve myself everytime. I also love
 
 **Software development Intern - ETRI (Electronics and Telecommunications Research Institute of Korea)**  &nbsp; 2019.01 ~ 2019.03
 
-### 🏆 Awards
+### Awards
 **First Prize At SAMSUNG Electronics, SAMSUNG software academy development contest** &nbsp;- 2020.11
 
 **Third Prize At Ministry of the Interior and Safety, Secure coding Hackathon in Korea** &nbsp;- 2019.10
