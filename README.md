@@ -8,13 +8,13 @@ I working on product force me to learn and improve myself everytime. I also love
 
 ### Experience  
 
-**Backend developer at Woowa Bros.**  &nbsp; 2022.06 ~        
+**Woowa Bros.**  &nbsp; 2022.06 ~        
 
-**Backend developer at Spoon Radio**  &nbsp; 2021.04 ~ 2022~06       
+**Spoon Radio**  &nbsp; 2021.04 ~ 2022~06       
 
 **SAMSUNG Software Academy for youth Trainee 4th - SAMSUNG Electronics** &nbsp; 2020.07 ~ 2021.03
 
-**Software development Intern - ETRI (Electronics and Telecommunications Research Institute of Korea)**  &nbsp; 2019.01 ~ 2019.03
+**ETRI (Electronics and Telecommunications Research Institute of Korea)**  &nbsp; 2019.01 ~ 2019.03
 
 ### Awards
 **First Prize At SAMSUNG Electronics, SAMSUNG software academy development contest** &nbsp;- 2020.11
