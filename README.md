@@ -17,7 +17,7 @@ I working on product force me to learn and improve myself everytime. I also love
 **ETRI (Electronics and Telecommunications Research Institute of Korea)**  &nbsp; 2019.01 ~ 2019.03
 
 ### Awards
-**First Prize At SAMSUNG Electronics, SAMSUNG software academy development contest** &nbsp;- 2020.11
+**First Prize At SAMSUNG Electronics, SAMSUNG software academy development competition** &nbsp;- 2020.11
 
 **Third Prize At Ministry of the Interior and Safety, Secure coding Hackathon in Korea** &nbsp;- 2019.10
 
